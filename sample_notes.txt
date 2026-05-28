@@ -1,0 +1,9 @@
+Meeting Date: Oct 24th
+Attendees: Sarah, John, Mike, Emily
+
+Notes:
+- Sarah mentioned the Q3 marketing budget is delayed by about 2 weeks. We can't spend anything on paid ads right now.
+- John needs to send the revised estimates for the server migration by Thursday EOD.
+- We agreed to pause the new social media ad campaign until Emily's new graphics are ready (should be next Monday).
+- Mike brought up the client feedback on the dashboard. They want an export to CSV button. We decided to put that in the next sprint.
+- Action item for Mike to create a Jira ticket for the CSV export.
